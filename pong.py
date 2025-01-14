@@ -47,7 +47,7 @@ class PixelFont:
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 650  # Made taller to accommodate the banner
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption("Custom Pong")
+pygame.display.set_caption("Siobhan Pong")
 
 # Colors
 BLACK = (0, 0, 0)
