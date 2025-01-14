@@ -8,9 +8,6 @@ import time
 # Initialize Pygame
 pygame.init()
 
-# Initialize Pygame
-pygame.init()
-
 # Set up fonts
 font = pygame.font.Font(None, 36)  # Default font, size 36
 
